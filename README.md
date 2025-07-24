@@ -3,6 +3,9 @@ Cute Password Generator is a lightweight Firefox extension that helps you genera
 
 ![Image](https://github.com/user-attachments/assets/4c6381ed-29ee-4465-846e-033faa2a0b33)
 
+🔒 Cute Password Generator Works entirely offline, passwords are generated and evaluated locally with no data sent anywhere.
+
+
 # Key Features
 1. Fully customizable charset: uppercase, lowercase, digits, special characters
 2. Option to remove ambiguous characters (l, 1, O, 0)
@@ -19,6 +22,5 @@ To install the Cute Password Generator extension, follow these steps:
 2. Click the "Add to Firefox" button,
 3. Confirm the installation, A pop-up window will appear asking you to confirm the installation. Click "Add" to continue,
 4. Wait for the installation to complete, The extension will be installed and you will see a notification when it is complete.
-
 
 Icon created by Freepik - Flaticon: https://www.flaticon.com/free-icons/password
